@@ -1,4 +1,4 @@
 Hello,
 
 this is sample file for node app repo
-test 1
+test 2
